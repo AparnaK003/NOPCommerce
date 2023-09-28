@@ -57,8 +57,8 @@ class Test_003_AddCustomer:
 
         self.msg = self.driver.find_element("xpath", "//div[@class='alert alert-success alert-dismissable']").text
         print(self.msg)
-        # The new customer has been added successfully.
-        exp_msg ="never"
+
+        exp_msg ="The new customer has been added successfully."
         if exp_msg in self.msg:
             assert True == True
             self.logger.info("Add customer test passed")
