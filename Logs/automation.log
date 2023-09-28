@@ -1,0 +1,162 @@
+09/28/2023 07:12:14 PM INFO ************* Test_003_AddCustomer ******************
+09/28/2023 07:12:14 PM INFO *************Logging in ******************
+09/28/2023 07:12:31 PM INFO ******** Verifying Add New Customer ********
+09/28/2023 07:12:43 PM INFO ****** Adding customer role *******
+09/28/2023 07:12:44 PM INFO ****** clicking save *******
+09/28/2023 07:12:46 PM INFO ******** add customer validation started  ************
+09/28/2023 07:12:47 PM INFO Add customer test passed
+09/28/2023 07:12:57 PM INFO ************* Test_001_Login ***************
+09/28/2023 07:12:57 PM INFO ************* Verifying Home Page Title ***************
+09/28/2023 07:13:10 PM INFO ************* Home Page Title Test is Passed ***************
+09/28/2023 07:13:13 PM INFO *************Verifying login test******************
+09/28/2023 07:13:25 PM INFO ************* Login test Passed ***************
+09/28/2023 07:13:29 PM INFO ************* Test_002_DDT_Login ******************
+09/28/2023 07:13:29 PM INFO *************Verifying login DDT test******************
+09/28/2023 07:13:43 PM INFO ********** Passed
+09/28/2023 07:13:56 PM INFO ***** passed *******
+09/28/2023 07:14:01 PM INFO ***** passed *******
+09/28/2023 07:14:07 PM INFO ***** passed *******
+09/28/2023 07:14:07 PM INFO *********** Login DDT test passed *********
+09/28/2023 07:14:12 PM INFO ********* End of Login DDT Test ************
+09/28/2023 07:14:12 PM INFO ******** Completed Test_002_DDT_Login *********
+09/28/2023 07:14:15 PM INFO ******* Test_004_SearchByName ********
+09/28/2023 07:14:15 PM INFO *************Verifying login test******************
+09/28/2023 07:14:28 PM INFO ******** entering customer page ********
+09/28/2023 07:14:48 PM INFO ******* Test_004_SearchByName ********
+09/28/2023 07:14:48 PM INFO *************Verifying login test******************
+09/28/2023 07:15:09 PM INFO ******** entering customer page ********
+09/28/2023 07:22:34 PM INFO ************* Test_003_AddCustomer ******************
+09/28/2023 07:22:35 PM INFO *************Logging in ******************
+09/28/2023 07:23:08 PM INFO ************* Test_001_Login ***************
+09/28/2023 07:23:08 PM INFO ************* Verifying Home Page Title ***************
+09/28/2023 07:23:18 PM INFO ************* Home Page Title Test is Passed ***************
+09/28/2023 07:23:23 PM INFO *************Verifying login test******************
+09/28/2023 07:23:43 PM INFO ************* Login test Passed ***************
+09/28/2023 07:24:38 PM INFO ************* Test_002_DDT_Login ******************
+09/28/2023 07:24:38 PM INFO *************Verifying login DDT test******************
+09/28/2023 07:26:05 PM INFO ********** Passed
+09/28/2023 07:26:17 PM INFO ***** passed *******
+09/28/2023 07:26:23 PM INFO ***** passed *******
+09/28/2023 07:26:32 PM INFO ***** passed *******
+09/28/2023 07:26:32 PM INFO *********** Login DDT test passed *********
+09/28/2023 07:26:37 PM INFO ********* End of Login DDT Test ************
+09/28/2023 07:26:37 PM INFO ******** Completed Test_002_DDT_Login *********
+09/28/2023 07:26:41 PM INFO ******* Test_004_SearchByName ********
+09/28/2023 07:26:41 PM INFO *************Verifying login test******************
+09/28/2023 07:27:20 PM INFO ******* Test_004_SearchByName ********
+09/28/2023 07:27:20 PM INFO *************Verifying login test******************
+09/28/2023 07:28:17 PM INFO ************* Test_003_AddCustomer ******************
+09/28/2023 07:28:17 PM INFO *************Logging in ******************
+09/28/2023 07:29:09 PM INFO ************* Test_001_Login ***************
+09/28/2023 07:29:09 PM INFO ************* Verifying Home Page Title ***************
+09/28/2023 07:29:28 PM INFO ************* Home Page Title Test is Passed ***************
+09/28/2023 07:29:30 PM INFO *************Verifying login test******************
+09/28/2023 07:34:57 PM INFO ************* Login test Passed ***************
+09/28/2023 07:35:02 PM INFO ************* Test_002_DDT_Login ******************
+09/28/2023 07:35:02 PM INFO *************Verifying login DDT test******************
+09/28/2023 07:35:15 PM INFO ******* Test_004_SearchByName ********
+09/28/2023 07:35:15 PM INFO *************Verifying login test******************
+09/28/2023 07:36:48 PM INFO ******** entering customer page ********
+09/28/2023 07:37:13 PM INFO ******* Test_004_SearchByName ********
+09/28/2023 07:37:13 PM INFO *************Verifying login test******************
+09/28/2023 07:39:15 PM INFO ******** entering customer page ********
+09/28/2023 07:44:00 PM INFO ************* Test_003_AddCustomer ******************
+09/28/2023 07:44:00 PM INFO *************Logging in ******************
+09/28/2023 07:44:37 PM INFO ************* Test_001_Login ***************
+09/28/2023 07:44:37 PM INFO ************* Verifying Home Page Title ***************
+09/28/2023 07:44:42 PM INFO *************Verifying login test******************
+09/28/2023 07:44:48 PM INFO ************* Test_002_DDT_Login ******************
+09/28/2023 07:44:48 PM INFO *************Verifying login DDT test******************
+09/28/2023 07:44:56 PM INFO ******* Test_004_SearchByName ********
+09/28/2023 07:44:56 PM INFO *************Verifying login test******************
+09/28/2023 07:45:09 PM INFO ******* Test_004_SearchByName ********
+09/28/2023 07:45:09 PM INFO *************Verifying login test******************
+09/29/2023 12:12:51 AM INFO ************* Test_003_AddCustomer ******************
+09/29/2023 12:12:51 AM INFO *************Logging in ******************
+09/29/2023 12:13:02 AM INFO ******** Verifying Add New Customer ********
+09/29/2023 12:13:16 AM INFO ****** Adding customer role *******
+09/29/2023 12:13:16 AM INFO ****** clicking save *******
+09/29/2023 12:13:18 AM INFO ******** add customer validation started  ************
+09/29/2023 12:13:20 AM INFO Add customer test passed
+09/29/2023 12:13:28 AM INFO ************* Test_001_Login ***************
+09/29/2023 12:13:28 AM INFO ************* Verifying Home Page Title ***************
+09/29/2023 12:13:33 AM INFO ************* Home Page Title Test is Passed ***************
+09/29/2023 12:13:36 AM INFO *************Verifying login test******************
+09/29/2023 12:13:43 AM INFO ************* Login test Passed ***************
+09/29/2023 12:13:50 AM INFO ************* Test_002_DDT_Login ******************
+09/29/2023 12:13:50 AM INFO *************Verifying login DDT test******************
+09/29/2023 12:14:02 AM INFO ********** Passed
+09/29/2023 12:14:14 AM INFO ***** passed *******
+09/29/2023 12:14:19 AM INFO ***** passed *******
+09/29/2023 12:14:25 AM INFO ***** passed *******
+09/29/2023 12:14:25 AM INFO *********** Login DDT test passed *********
+09/29/2023 12:14:29 AM INFO ********* End of Login DDT Test ************
+09/29/2023 12:14:29 AM INFO ******** Completed Test_002_DDT_Login *********
+09/29/2023 12:14:32 AM INFO ******* Test_004_SearchByName ********
+09/29/2023 12:14:32 AM INFO *************Verifying login test******************
+09/29/2023 12:14:39 AM INFO ******** entering customer page ********
+09/29/2023 12:14:45 AM INFO ******* Test_004_SearchByName ********
+09/29/2023 12:14:45 AM INFO *************Verifying login test******************
+09/29/2023 12:14:53 AM INFO ******** entering customer page ********
+09/29/2023 12:16:01 AM INFO ************* Test_003_AddCustomer ******************
+09/29/2023 12:16:01 AM INFO *************Logging in ******************
+09/29/2023 12:16:30 AM INFO ******** Verifying Add New Customer ********
+09/29/2023 12:16:52 AM INFO ****** Adding customer role *******
+09/29/2023 12:16:53 AM INFO ****** clicking save *******
+09/29/2023 12:16:56 AM INFO ******** add customer validation started  ************
+09/29/2023 12:16:56 AM INFO Add customer test passed
+09/29/2023 12:17:06 AM INFO ************* Test_001_Login ***************
+09/29/2023 12:17:06 AM INFO ************* Verifying Home Page Title ***************
+09/29/2023 12:17:18 AM INFO ************* Home Page Title Test is Passed ***************
+09/29/2023 12:17:21 AM INFO *************Verifying login test******************
+09/29/2023 12:17:32 AM INFO ************* Login test Passed ***************
+09/29/2023 12:17:37 AM INFO ************* Test_002_DDT_Login ******************
+09/29/2023 12:17:37 AM INFO *************Verifying login DDT test******************
+09/29/2023 12:17:53 AM INFO ********** Passed
+09/29/2023 12:18:04 AM INFO ***** passed *******
+09/29/2023 12:18:10 AM INFO ***** passed *******
+09/29/2023 12:18:16 AM INFO ***** passed *******
+09/29/2023 12:18:16 AM INFO *********** Login DDT test passed *********
+09/29/2023 12:18:19 AM INFO ********* End of Login DDT Test ************
+09/29/2023 12:18:19 AM INFO ******** Completed Test_002_DDT_Login *********
+09/29/2023 12:18:26 AM INFO ******* Test_004_SearchByName ********
+09/29/2023 12:18:26 AM INFO *************Verifying login test******************
+09/29/2023 12:18:38 AM INFO ******** entering customer page ********
+09/29/2023 12:18:41 AM INFO ******** clicked search button ********
+09/29/2023 12:18:45 AM INFO ********** customer search test passed *************
+09/29/2023 12:18:54 AM INFO ******* Test_004_SearchByName ********
+09/29/2023 12:18:54 AM INFO *************Verifying login test******************
+09/29/2023 12:19:05 AM INFO ******** entering customer page ********
+09/29/2023 12:19:10 AM INFO ******** clicked search button ********
+09/29/2023 12:19:14 AM INFO ********** customer search name test passed *************
+09/29/2023 12:19:54 AM INFO ************* Test_003_AddCustomer ******************
+09/29/2023 12:19:54 AM INFO *************Logging in ******************
+09/29/2023 12:20:05 AM INFO ******** Verifying Add New Customer ********
+09/29/2023 12:20:16 AM INFO ****** Adding customer role *******
+09/29/2023 12:20:16 AM INFO ****** clicking save *******
+09/29/2023 12:20:18 AM INFO ******** add customer validation started  ************
+09/29/2023 12:20:18 AM INFO Add customer test passed
+09/29/2023 12:20:22 AM INFO ************* Test_001_Login ***************
+09/29/2023 12:20:22 AM INFO ************* Verifying Home Page Title ***************
+09/29/2023 12:20:31 AM INFO ************* Home Page Title Test is Passed ***************
+09/29/2023 12:20:34 AM INFO *************Verifying login test******************
+09/29/2023 12:20:42 AM INFO ************* Login test Passed ***************
+09/29/2023 12:20:45 AM INFO ************* Test_002_DDT_Login ******************
+09/29/2023 12:20:45 AM INFO *************Verifying login DDT test******************
+09/29/2023 12:21:00 AM INFO ********** Passed
+09/29/2023 12:21:12 AM INFO ***** passed *******
+09/29/2023 12:21:18 AM INFO ***** passed *******
+09/29/2023 12:21:24 AM INFO ***** passed *******
+09/29/2023 12:21:24 AM INFO *********** Login DDT test passed *********
+09/29/2023 12:21:25 AM INFO ********* End of Login DDT Test ************
+09/29/2023 12:21:25 AM INFO ******** Completed Test_002_DDT_Login *********
+09/29/2023 12:21:28 AM INFO ******* Test_004_SearchByName ********
+09/29/2023 12:21:28 AM INFO *************Verifying login test******************
+09/29/2023 12:21:43 AM INFO ******** entering customer page ********
+09/29/2023 12:21:47 AM INFO ******** clicked search button ********
+09/29/2023 12:21:51 AM INFO ********** customer search test passed *************
+09/29/2023 12:21:58 AM INFO ******* Test_004_SearchByName ********
+09/29/2023 12:21:58 AM INFO *************Verifying login test******************
+09/29/2023 12:22:10 AM INFO ******** entering customer page ********
+09/29/2023 12:22:13 AM INFO ******** clicked search button ********
+09/29/2023 12:22:17 AM INFO ********** customer search name test passed *************
