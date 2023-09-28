@@ -176,3 +176,27 @@
 09/29/2023 02:40:31 AM INFO ******** entering customer page ********
 09/29/2023 02:40:36 AM INFO ******** clicked search button ********
 09/29/2023 02:40:40 AM INFO ********** customer search name test passed *************
+09/29/2023 02:45:18 AM INFO *************Verifying login test******************
+09/29/2023 02:46:05 AM INFO ******* Test_004_SearchByName ********
+09/29/2023 02:46:05 AM INFO *************Verifying login test******************
+09/29/2023 02:47:01 AM INFO ******* Test_004_SearchByName ********
+09/29/2023 02:47:01 AM INFO *************Verifying login test******************
+09/29/2023 02:47:41 AM INFO ************* Test_003_AddCustomer ******************
+09/29/2023 02:47:41 AM INFO *************Logging in ******************
+09/29/2023 02:47:56 AM INFO ******** Verifying Add New Customer ********
+09/29/2023 02:48:13 AM INFO ****** Adding customer role *******
+09/29/2023 02:48:13 AM INFO ****** clicking save *******
+09/29/2023 02:48:15 AM INFO ******** add customer validation started  ************
+09/29/2023 02:48:16 AM ERROR Add customer test failed
+09/29/2023 02:48:27 AM INFO *************Verifying login test******************
+09/29/2023 02:48:48 AM INFO ************* Login test Passed ***************
+09/29/2023 02:49:34 AM INFO ******* Test_004_SearchByName ********
+09/29/2023 02:49:34 AM INFO *************Verifying login test******************
+09/29/2023 02:49:53 AM INFO ******** entering customer page ********
+09/29/2023 02:50:01 AM INFO ******** clicked search button ********
+09/29/2023 02:50:05 AM INFO ********** customer search test passed *************
+09/29/2023 02:50:13 AM INFO ******* Test_004_SearchByName ********
+09/29/2023 02:50:13 AM INFO *************Verifying login test******************
+09/29/2023 02:50:23 AM INFO ******** entering customer page ********
+09/29/2023 02:50:25 AM INFO ******** clicked search button ********
+09/29/2023 02:50:30 AM INFO ********** customer search name test passed *************

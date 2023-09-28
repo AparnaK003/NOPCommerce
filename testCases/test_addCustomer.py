@@ -35,7 +35,7 @@ class Test_003_AddCustomer:
         self.add.clickOnAddNew()
         time.sleep(5)
 
-        self.emailid= random_generator() + "@gmail.com"
+        self.emailid=random_generator()+ "@gmail.com"
         self.add.setEmail(self.emailid)
         self.add.setPassword(self.password)
         self.add.setFirstName("Veronica")
@@ -57,7 +57,8 @@ class Test_003_AddCustomer:
 
         self.msg = self.driver.find_element("xpath", "//div[@class='alert alert-success alert-dismissable']").text
         print(self.msg)
-        exp_msg ="The new customer has been added successfully."
+        # The new customer has been added successfully.
+        exp_msg ="never"
         if exp_msg in self.msg:
             assert True == True
             self.logger.info("Add customer test passed")
