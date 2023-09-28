@@ -160,3 +160,19 @@
 09/29/2023 12:22:10 AM INFO ******** entering customer page ********
 09/29/2023 12:22:13 AM INFO ******** clicked search button ********
 09/29/2023 12:22:17 AM INFO ********** customer search name test passed ***********
+09/29/2023 02:37:24 AM INFO ************* Test_003_AddCustomer ******************
+09/29/2023 02:37:25 AM INFO *************Logging in ******************
+09/29/2023 02:37:39 AM INFO ******** Verifying Add New Customer ********
+09/29/2023 02:37:52 AM INFO ****** Adding customer role *******
+09/29/2023 02:38:02 AM INFO *************Verifying login test******************
+09/29/2023 02:38:24 AM INFO ************* Login test Passed ***************
+09/29/2023 02:39:03 AM INFO ******* Test_004_SearchByName ********
+09/29/2023 02:39:03 AM INFO *************Verifying login test******************
+09/29/2023 02:39:38 AM INFO ******** entering customer page ********
+09/29/2023 02:39:46 AM INFO ******** clicked search button ********
+09/29/2023 02:39:50 AM INFO ********** customer search test passed *************
+09/29/2023 02:40:11 AM INFO ******* Test_004_SearchByName ********
+09/29/2023 02:40:11 AM INFO *************Verifying login test******************
+09/29/2023 02:40:31 AM INFO ******** entering customer page ********
+09/29/2023 02:40:36 AM INFO ******** clicked search button ********
+09/29/2023 02:40:40 AM INFO ********** customer search name test passed *************
